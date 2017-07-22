@@ -2,7 +2,7 @@
 
 Software defined radio transmitter for EAchine E012 mini quadcopter
 
-[![Youtube video](https://img.youtube.com/vi/rZcHcuowGJU/0.jpg)](https://www.youtube.com/watch?v=rZcHcuowGJU)
+[![Youtube video](http://i.imgur.com/jK0brGg.png)](https://www.youtube.com/watch?v=rZcHcuowGJU)
 
 ### Usage:
 
